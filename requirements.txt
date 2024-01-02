@@ -1,2 +1,5 @@
 fastai
 ipywidgets
+voila
+pillow
+packaging
